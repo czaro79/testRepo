@@ -1,3 +1,5 @@
 1. Pierwsza linijka tekstu. - commit 1
 
 2. Druga linijka tekstu - commit 2
+
+3. Trzecia linijka tekstu - commit 3
