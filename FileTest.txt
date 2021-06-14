@@ -3,3 +3,5 @@
 2. Druga linijka tekstu - commit 2
 
 3. Trzecia linijka tekstu - commit 3
+
+4. Czwarta linijka tekstu - commit 4
